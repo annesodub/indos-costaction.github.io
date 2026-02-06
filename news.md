@@ -1,5 +1,4 @@
 ---
-layout: default
 title: News
 ---
 
@@ -8,6 +7,10 @@ Stay connected and receive the latest updates:
 - Follow our activities on [BlueSky](https://bsky.app/profile/indos-costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/15307040/).
 - Subscribe to our mailing list (details to be added, TODO).
 - Attend our workshops and conferences (links to be added, TODO).
+
+## 6 February 2026 - new logo
+
+We have a new logo, please see the [style guide](/style_guide) for further details.
 
 ## 30 September 2025 - MC1 meeting
 

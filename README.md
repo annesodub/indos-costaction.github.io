@@ -70,8 +70,7 @@ The site auto-deploys via GitHub Pages when pushing to the main branch of this r
 
    ```yaml
    ---
-   layout: default
-   title: Page Title
+      title: Page Title
    ---
    ```
 

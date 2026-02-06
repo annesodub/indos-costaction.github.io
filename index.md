@@ -1,5 +1,4 @@
 ---
-layout: default
 title: INDoS - Improving Neuroimaging Data for Sharing
 ---
 
